@@ -15,3 +15,11 @@
 💱 | Quelles cryptomonnaies sont prises en charge ?
 
 ↪ DragFaucet vous propose 12 cryptomonnaies différentes !
+
+🔒 | Mes conseils :
+
+↪  Soyez patient, les faucets de cryptos donnent de faible montant, pas des milliers d'euros !
+
+↪ Mettez de bon mot de passe sur vos comptes faucets !
+
+↪ N'hésitez pas à venir me voir si vous avez d'éventuelle questions ou suggestions !
