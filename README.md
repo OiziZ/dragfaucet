@@ -1,8 +1,7 @@
 <p align="center"><img src="https://zupimages.net/up/20/37/3g58.jpg" width="256px" height="256px" alt="aventium softworks"></p>
 <h1 align="center">DragFaucet</h1>
-<p align="center">Premier faucet collector français !</p>
 <p align="center"><img src="https://zupimages.net/up/19/16/2gcm.png" width="777px" height="249px" alt="aventium softworks"></p>
-<p align="center">Proxy scraper and checker create by proxyscrape with all sources.</p>
+<p align="center">DragFaucet est le premier bot discord qui réunit plus de 75 faucets de cryptos et aussi unique en sont genre !</p>
 
 
 <p align="center">Don't forget to leave a star!</p>
