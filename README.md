@@ -4,11 +4,6 @@
 <p align="center">DragFaucet est le premier bot discord qui réunit plus de 75 faucets de cryptos et aussi unique en sont genre !</p>
 
 
-<p align="center">Don't forget to leave a star!</p>
-
-<p align="center"><img src="https://zupimages.net/up/20/36/46nj.jpg" width="727px" height="1000px" alt="aventium softworks"></p>
-
-
 ## 🌐 Proxy website sources :
 
 https://premproxy.com/socks-list/ip-port/3.htm
