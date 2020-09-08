@@ -1,4 +1,4 @@
-<p align="center"><img src="https://zupimages.net/up/20/37/3g58.jpg" width="228px" height="187px" alt="aventium softworks"></p>
+<p align="center"><img src="https://zupimages.net/up/20/37/3g58.jpg" width="256px" height="256px" alt="aventium softworks"></p>
 <h1 align="center">DragFaucet</h1>
 <p align="center">Premier faucet collector français !</p>
 <p align="center"><img src="https://zupimages.net/up/20/36/1iwq.png" width="367px" height="137px" alt="aventium softworks"></p>
